@@ -133,7 +133,7 @@ if ($search) {
 
         <!-- Categories -->
         <div class="mb-12" id="categories">
-            <h2 class="text-2xl font-bold mb-6 gradient-text">Browse Categories</h2>
+            <h2 class="text-2xl font-bold mb-6 gradient-text">Categories</h2>
             <div class="flex flex-wrap gap-3">
                 <a href="index.php" class="bg-white hover:bg-beige-100 text-brown-600 px-4 py-2 rounded-lg transition duration-200 border border-brown-600">
                     All Courses
